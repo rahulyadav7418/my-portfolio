@@ -1,4 +1,4 @@
-# My Portfolio
+# My Portfolio built by me using Claude for just practice purpose while learning use to Claude.
 
 A single-page personal portfolio built with plain HTML, CSS, and JavaScript, showcasing my frontend/MERN stack skills, project, and background.
 
