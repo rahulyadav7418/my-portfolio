@@ -1,4 +1,4 @@
-# Rahul Yadav — Developer Portfolio
+# My Portfolio
 
 A single-page personal portfolio built with plain HTML, CSS, and JavaScript, showcasing my frontend/MERN stack skills, project, and background.
 
